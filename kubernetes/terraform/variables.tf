@@ -10,12 +10,12 @@ variable "location" {
 
 variable "kubernetes_client_id" {
   description = "The Client ID for the Service Principal to use for this Managed Kubernetes Cluster"
-  default = "3ceb3bfd-4f29-4a6a-9028-26ad17f5886d"
+  default = "4051b321-65a0-4c74-8574-3d8511ff837d"
 }
 
 variable "kubernetes_client_secret" {
   description = "The Client Secret for the Service Principal to use for this Managed Kubernetes Cluster"
-  default = "9702d58f-2480-4cad-8c21-c463e90bc137"
+  default = "73a89189-1f84-4274-9ed4-f59905c1485e"
 }
 
 
